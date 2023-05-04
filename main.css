@@ -203,7 +203,6 @@ ul > li {
 
 .fade-slider__item--style-thirts {
     background: url(./img/content/hero/slider_pic_1.png);
-     background: no-repeat;
 }
 
 .fade-slider__item--style-thirts .fade-slider__text {
@@ -214,7 +213,6 @@ ul > li {
 
 .fade-slider__item--style-games {
     background: url(./img/content/hero/slider_pic_2.png);
-    background: no-repeat;
 }
 
 .fade-slider__item--style-games .fade-slider__text {
@@ -228,7 +226,6 @@ ul > li {
 
 .fade-slider__item--style-presents {
     background: url(./img/content/hero/slider_pic_3.png);
-    background: no-repeat;
 }
 
 .fade-slider__item--style-presents .fade-slider__text {
